@@ -85,3 +85,8 @@ The models are compared using classification metrics such as accuracy, precision
 ## Reproducibility
 
 The notebooks contain the data preprocessing steps, model configurations, and evaluation procedures. Results may vary slightly depending on the software versions and execution environment.
+
+## Authors
+
+- Lakshmikanth Guntupalli ([@lkguntupalli](https://github.com/lkguntupalli))
+
