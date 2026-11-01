@@ -91,5 +91,5 @@ The notebooks contain the data preprocessing steps, model configurations, and ev
 - Lakshmikanth Guntupalli ([@lkguntupalli](https://github.com/lkguntupalli))
 - Praneeth Reddy Brahmanpally (@PRANEETHREDDY0913)
 - sandya kommula (@sandyakommula@gmail.com)  
-    
+  Sujith Vakidi (@Sujith1083)
 
